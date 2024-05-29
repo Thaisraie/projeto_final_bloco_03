@@ -4,7 +4,7 @@ function Home() {
     return (
         <>
             <div className="
-                bg-neutral-500 
+                bg-red-700 
                 flex 
                 justify-center
                 ">
@@ -34,9 +34,9 @@ function Home() {
 
                     <div className="flex justify-center ">
                         <img
-                            src="https://ik.imagekit.io/mnz3yzqzot/oie_transparent%20(1).png?updatedAt=1716994435756"
+                            src="https://ik.imagekit.io/mnz3yzqzot/oie_transparent%20(3).png?updatedAt=1717004725489"
                             alt="Imagem Página Home"
-                            className='w-2/4'
+                            className='w-2/3'
                         />
                     </div>
                 </div>
