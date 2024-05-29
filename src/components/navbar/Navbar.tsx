@@ -21,7 +21,7 @@ function Navbar() {
             ">
                 <Link to='/home'>
                     <img
-                        src="https://cdn-icons-png.flaticon.com/512/185/185954.png"
+                        src="https://ik.imagekit.io/mnz3yzqzot/cruz-vermelha.png?updatedAt=1717007308743"
                         alt="Logo"
                         className='w-14'
                     />

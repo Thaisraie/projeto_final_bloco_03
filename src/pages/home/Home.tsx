@@ -4,7 +4,7 @@ function Home() {
     return (
         <>
             <div className="
-                bg-red-700 
+                bg-amber-100 
                 flex 
                 justify-center
                 ">
@@ -12,7 +12,7 @@ function Home() {
                     container 
                     grid 
                     grid-cols-2 
-                    text-white
+                    text-cyan-800
                     '>
                     <div className="
                         flex 
@@ -34,9 +34,9 @@ function Home() {
 
                     <div className="flex justify-center ">
                         <img
-                            src="https://ik.imagekit.io/mnz3yzqzot/oie_transparent%20(3).png?updatedAt=1717004725489"
+                            src="https://ik.imagekit.io/mnz3yzqzot/cruz-vermelha.png?updatedAt=1717007308743"
                             alt="Imagem Página Home"
-                            className='w-2/3'
+                            className='w-1/2'
                         />
                     </div>
                 </div>
